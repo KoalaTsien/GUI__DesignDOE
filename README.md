@@ -1,2 +1,2 @@
 # GUI__DesignDOE
-This is a GUI code for design DOE (Diffractive Optical Element) using MATLAB.
+This is a GUI code for designing DOE (Diffractive Optical Element) using MATLAB.
